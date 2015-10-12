@@ -1,9 +1,6 @@
 
 /**
- * One-player version of Tic Tac Toe, against terrible AI
- * 
- * @author babak
- * @version 0.0
+ * One-player version of Tic Tac Toe
  */
 
 import java.util.*;

@@ -1,9 +1,7 @@
 
 /**
- * One-player version of Othello, against terrible AI
- * 
- * @author babak
- * @version 0.0
+ * One-player version of Othello
+ 
  */
 
 import java.util.*;
